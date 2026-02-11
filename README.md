@@ -5,7 +5,9 @@
 - 💓 Me encantan los retos, los desafíos y descubrir nuevos productos, procesos y proyectos
 - 📫 Para contactarme: laura.gafter@gmail.com
 
- ## Lenguajes y herramientas
+ 
+ 
+ Lenguajes y herramientas
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai" />
   </a>
